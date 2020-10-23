@@ -1,0 +1,11 @@
+Numero,Titulo,Duracion,Director,Anio,imagen
+1,Misión de rescate,99M,Sam Hargrave,2020,001.png
+2,A ciegas,89M,Susanne Bier,2018,002.png
+3,Spenser Confidential,85M,Peter Berg,2020,003.png
+4,Escuadrón 6,83M,Michael Bay,2019,004.png
+5,Misterio a bordo,73M,Kyle Newacheck,2019,005.png
+6,El irlandés,64M,Martin Scorsese,2019,006.png
+7,Triple frontera,63M,J,C,Chandor,2019,007.png
+8,La otra Missy,59M,Happy Madison,2020,008.png
+9,El hoyo,56M,Galder Gaztelu-Urrutia,2019,009.png
+10,La cita perfecta,48M,Chris Nelson,2019,010.png
